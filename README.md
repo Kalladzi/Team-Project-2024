@@ -6,6 +6,7 @@ b. Khansa
 c. Yakhof
 
 # Project-Goals:
+To make us understand in the use of Git and GitHub by implementing what we learned in class.
 
 # Task-Assignment:
 a. Faliza:
